@@ -1,6 +1,6 @@
-Nama : Naufal Syafiq Hambali
-NIM  : F55121035
-UAS PAA 2 KELAS A
+Nama : Naufal Syafiq Hambali<br />
+NIM  : F55121035<br />
+UAS PAA 2 KELAS A<br />
 
 1. Analisa Algoritma bubble sort dan insertion sort<br />
     Untuk melakukan analisis algoritma, kita perlu memahami kompleksitas waktu dari masing-masing algoritma pengurutan (Bubble Sort dan Insertion Sort) terlebih dahulu.
