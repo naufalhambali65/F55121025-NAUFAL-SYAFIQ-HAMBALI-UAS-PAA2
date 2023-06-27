@@ -1,3 +1,6 @@
+# Naufal Syafiq Hambali
+# F55121035
+
 import time
 
 def bubble_sort(arr):
