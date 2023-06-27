@@ -1,3 +1,6 @@
+# Naufal Syafiq Hambali
+# F55121035
+
 import networkx as nx
 import matplotlib.pyplot as plt
 import time
